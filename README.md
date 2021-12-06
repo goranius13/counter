@@ -1,5 +1,6 @@
 # counter
 Napravljeno za online odbrojavanje do nekog događaja.
+Ovaj branch koristi Vuejs verziju 2.6
 
 ## Project setup
 ```
