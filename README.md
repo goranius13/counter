@@ -1,5 +1,6 @@
 # counter
 Napravljeno za online odbrojavanje do nekog događaja.
+Napravljen upgrade na Vuejs 3.
 
 ## Project setup
 ```

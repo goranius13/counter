@@ -87,7 +87,6 @@
             min="0"
             max="60"
             step="1"
-            value="60"
             style="width: 100%"
             v-model="minutes"
           />
@@ -99,7 +98,6 @@
             min="0"
             max="60"
             step="1"
-            value="0"
             style="width: 100%"
             v-model="seconds"
           />
